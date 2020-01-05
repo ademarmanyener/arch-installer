@@ -1,0 +1,1 @@
+linux-lts linux-lts-headers base base-devel fish iw wpa_supplicant dialog vim git wget --ignore linux
